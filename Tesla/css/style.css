@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    gap: 5px;
+}
+
+.wrapper h1{
+    margin: 10px;
+}
+.cars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    gap: 3px;
+}
+img{
+    height: 500px;
+    border-radius: 30px;
+}
+.gombok{
+    margin: 20px;
+}
